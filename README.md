@@ -1,4 +1,6 @@
-# vue-router
+# vuejsrouter (vue-router)
+
+The Vue Router demo
 
 ## Project setup
 ```
